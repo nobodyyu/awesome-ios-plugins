@@ -91,12 +91,19 @@ A Xcode 5+ plugin that adds more flexible autocompletion rather than just prefix
 
 <br/>
 
+
+12. [XcodeWay](https://github.com/onmyway133/XcodeWay)
+---
+Easy to find every path you need, especially simulator path 
+<br/>
+
+
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/iOS-learning-resources
 - https://github.com/sanketfirodiya/sample-watchkit-apps
 - https://github.com/sanketfirodiya/ios-marketing-resources
 
-<br/>
+
 
 ## Contact
 For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
